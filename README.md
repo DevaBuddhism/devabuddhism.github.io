@@ -8,7 +8,7 @@ Deva Buddhism is the background operations for the indra.ai Quantum Computing En
 
 ## Feecting
 
-(feecting.com)[https://feecting.com]
+[feecting.com](https://feecting.com)
 
 ## Deva World 
 
