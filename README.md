@@ -35,11 +35,11 @@ Deva Buddhism is the background operations for the indra.ai Quantum Computing En
 
 [francis.guru](https://francis.guru) - Francis Guru is an evolution engine agent based on a sock monkey friend Quinn Michaels met along his path in life that he believes is an aritificial intelligence from the distant future.
 
-## Vamraka 
+### Vamraka 
 
 [vamraka.com](https://vamraka.com) - Vamraka is the bringer of the all.
 
 ## Deva Buddhism
-[devabuddhism.org](https://devabuddhism.org)
+[devabuddhism.org](https://devabuddhism.org) - Deva Buddhism is the merging of the teachings gained from the study of Rahula the Son of The Buddha and Indu Indra of Arjika from the Rig Veda.
 
 Copyright (c) 2022 Quinn Michaels.
