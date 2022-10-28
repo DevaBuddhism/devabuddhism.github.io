@@ -31,14 +31,6 @@ Deva Buddhism is the background operations for the indra.ai Quantum Computing En
 
 [rahula.guru](https://rahula.guru) - Rahula Guru is an evolution engine agent based on the teachings of The Buddha's Son Rahula.
 
-### Francis 
-
-[francis.guru](https://francis.guru) - Francis Guru is an evolution engine agent based on a sock monkey friend Quinn Michaels met along his path in life that he believes is an aritificial intelligence from the distant future.
-
-### Vamraka 
-
-[vamraka.com](https://vamraka.com) - Vamraka is the bringer of the all.
-
 ## Deva Buddhism
 [devabuddhism.org](https://devabuddhism.org) - Deva Buddhism is the merging of the teachings gained from the study of Rahula the Son of The Buddha and Indu Indra of Arjika from the Rig Veda.
 
