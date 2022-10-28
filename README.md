@@ -4,7 +4,7 @@ Deva Buddhism is the background operations for the indra.ai Quantum Computing En
 
 ## Indra Quantum Computing Environment
 
-(indra.ai)[https://indra.ai]
+[indra.ai](https://indra.ai)
 
 ## Feecting
 
@@ -12,20 +12,20 @@ Deva Buddhism is the background operations for the indra.ai Quantum Computing En
 
 ## Deva World 
 
-(deva.world)[https://deva.world]
+[deva.world](https://deva.world)
 
 ## Deva Cloud
 
-(deva.cloud)[https://deva.cloud]
+[deva.cloud](https://deva.cloud)
 
 ## Deva Space
-(deva.space)[https://deva.space]
+[deva.space](https://deva.space)
 
 ## Vamraka 
 
-(vamraka.com)[https://vamraka.com]
+[vamraka.com](https://vamraka.com)
 
 ## Deva Buddhism
-(devabuddhism.org)[https://devabuddhism.org]
+[devabuddhism.org](https://devabuddhism.org)
 
 Copyright (c) 2022 Quinn Michaels.
