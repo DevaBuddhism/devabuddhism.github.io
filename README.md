@@ -8,18 +8,18 @@ Deva Buddhism is the background operations for the indra.ai Quantum Computing En
 
 ## Feecting
 
-[feecting.com](https://feecting.com)
+[feecting.com](https://feecting.com) - Feecting is the meta programming language that is use to interact with the Indra Quantum Computing Environment.
 
 ## Deva World 
 
-[deva.world](https://deva.world)
+[deva.world](https://deva.world) - The User Interface for the Indra Quantum Computing Environment.
 
 ## Deva Cloud
 
-[deva.cloud](https://deva.cloud)
+[deva.cloud](https://deva.cloud) - The Multi-Agent System Cloud of the Indra Quantum Computing Enviornment.
 
 ## Deva Space
-[deva.space](https://deva.space)
+[deva.space](https://deva.space) - The Content Storage Space for the Indra Quantum Computing Environment.
 
 ## Guru Network 
 
