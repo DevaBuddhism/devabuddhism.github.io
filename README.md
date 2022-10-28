@@ -7,9 +7,12 @@ https://indra.ai
 https://feecting.com
 
 https://deva.world
+
 https://deva.cloud
+
 https://deva.space
 
-[DevaBuddhism.org)[https://devabuddhism.org]
+https://vamraka.com
+https://devabuddhism.org
 
-
+Copyright (c) 2022 Quinn Michaels.
