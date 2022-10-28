@@ -1,2 +1,4 @@
-# devabuddhism.github.io
-The Deva Buddhism Website
+# Deva Buddhism
+devabuddhism.org
+
+
